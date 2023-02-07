@@ -2,7 +2,7 @@
 
 body{
 	font-family: 'Roboto', sans-serif;
-	background-color: #02060e;
+	background-color: black;
 }
 * {
 	margin: 0;
@@ -14,11 +14,11 @@ i {
 /*----------bootstrap-navbar-css------------*/
 .navbar-logo{
 	padding : 15px,15px,15px,15px;
-	color: #fff;
+	color: black;
 	display: inline-block;
 }
 .navbar-mainbg{
-	background-color:  #02060e;
+	background-color:  black;
 	padding: 30 px;
 	margin: auto;
 }
@@ -76,7 +76,7 @@ i {
 	left: 0px;
 	transition-duration:0.6s;
 	transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
-	background-color: #02060e;
+	background-color: goldenrod;
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
 	margin-top: 10px;
@@ -171,88 +171,8 @@ i {
 }
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,400italic);
 
-/* // $blue: #09518f;
-// $bgDark: #171b23;
-// $blueBorder: #1074cb;
-// $jumbotronBlue: #2a313a;
-// $gray: #5d5d5d;
-// $base-gray: #f4f4f4;
-// $mediumGray: #e3e4e6;
-// $jumbotronGray: #6a6a6a;
-// $border-gray: #d9dee5;
-// $jumbotron-text-gray: #6f7782;
-// $jumbotron-text-white: white;
-// $textDarkColor: #676a6c;
-// $textLightColor: #a0a5a8;
-// $progress-green: #49d560;
-// $light-blue: #00acee;
-// $red: #eb4d5c;
-// $about-section-heading-blue: #074e8c;
-
-// BASE STYLES (not specific to this page)
-// .product-navbar {
-//     height: 40px;
-//     width: 100%;
-//     background: #090b0f;
-//     border-bottom: 1px solid #090b0f;
-//     font-family: 'Open Sans',sans-serif;
-//     font-size: 14px;
-//     line-height: 1.42857143;
-//     color: #333;
-
-//     .product-navbar-centered {
-//       max-width: 90vw;
-//       height: 20px;
-//       margin: 0 5vw;
-
-//         ul {
-//             margin: 0;
-//             padding: 0;
-
-//             li {
-//                 float: left;
-//                 list-style: none;
-//                 margin-right: 30px;
-//                 padding-top: 9px;
-
-//                 a {
-//                     color: #6f7782;
-//                     font-size: 12px;
-//                     font-weight: 700;
-//                     text-decoration: none;
-//                     text-transform: uppercase;
-//                     text-shadow: none !important;
-//                 }
-//             }
-//         }
-//     }
-// }
-
-// .hero {
-//   background: $bgDark;
-//   padding-left: 0;
-//   padding-right: 0;
-  
-//   .container {
-//     margin: 0 5vw;
-//     padding: 0 0vw;
-//     max-width: 90vw;
-//   }
-  
-//   .navbar-brand {
-//     color: #fff;
-    
-    // img {
-    //   margin-right: 7px;
-    //   margin-top: -7px;
-//     // }
-//   }
-// }
-
-// BASE STYLES END
 
 
-// PAGE SPECIFIC STYLES */
 #about-main {
     font-family: 'Open Sans', sans-serif;
     margin: 0 auto;
@@ -327,7 +247,7 @@ i {
 				}
                     h1 {
                         text-align: center;
-                        color: #fff;
+                        color: goldenrod;
                         font-size: 40px;
                         font-weight: bold;
                         margin-bottom: 20px;
@@ -335,7 +255,7 @@ i {
 
                     p {
                         text-align: center;
-                        color: #fff;
+                        color: goldenrod;
                         font-size: 18px;
                         font-weight: 500;
                         margin: 0;
@@ -359,7 +279,7 @@ i {
                         h3 {
                             font-size: 35px;
                             margin: 5px 0px 20px 0px;
-                            color:#fff;
+                            color:goldenrod;
                             font-weight: 300;
                         }
        
